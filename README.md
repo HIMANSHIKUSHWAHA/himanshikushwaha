@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Himanshi Kushwaha</h1>
 <p align="center">
-  🧠 AI & FinTech Enthusiast • 🎓 MSCS @ IU Bloomington • 🛠️ Building intelligent systems across ML, Finance, and Full-Stack Apps
+  🧠 AI & FinTech Enthusiast • 🎓 MSCS 2025 @ IU Bloomington • 🛠️ Building intelligent systems across ML, Finance, and Full-Stack Apps
 </p>
 
 ---
